@@ -1,0 +1,106 @@
+h1 {
+  font-size: 25px;
+  font-weight: 300;
+  text-align: left;
+}
+
+header div .col {
+  text-align: center;
+}
+
+section {
+  padding: 0 12px;
+}
+ul {
+  padding-left: 25px;
+}
+li {
+  list-style: none;
+  padding-bottom: 1px;
+}
+
+ul li p span {
+  font-weight: 400;
+}
+footer div p {
+  font-size: 18px;
+  font-weight: 300;
+}
+footer {
+  text-align: center;
+}
+footer .row {
+  padding-top: 15px;
+}
+
+.degree-f:hover,
+.degree-c:hover {
+  color: #0962ea;
+  cursor: pointer;
+}
+.col-4 p {
+  margin: 0;
+  font-weight: 300;
+}
+
+.container.project {
+  display: block;
+  margin: 40px auto;
+  padding: 0 27px 25px 27px;
+  max-width: 700px;
+  font-family: "Lato", sans-serif;
+  border: 1px solid #222222;
+  border-radius: 20px;
+}
+
+.search-bar {
+  padding: 25px 12px 20px;
+}
+.btn-primary {
+  background-color: #0962ea;
+  border: #1c319c;
+}
+
+.current-location {
+  font-weight: 400;
+  padding-bottom: 2px;
+}
+
+.current-date {
+  font-weight: 400;
+}
+#current-time {
+  font-size: 16px;
+  padding-top: 4px;
+  font-weight: 450;
+}
+.degree-today {
+  font-size: 135px;
+}
+
+.degree-metric {
+  font-size: 28px;
+  position: relative;
+  bottom: 78px;
+  left: 3px;
+}
+.degree-c {
+  padding-right: 3px;
+  text-decoration: none;
+}
+
+.monday-icon {
+  text-align: center;
+  padding-left: 32px;
+  padding-bottom: 25px;
+  width: 80%;
+  height: auto;
+}
+
+.forecast-icon {
+  font-size: 30px;
+}
+
+.future-temp {
+  padding-top: 20px;
+}
